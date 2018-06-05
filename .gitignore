@@ -1,0 +1,6 @@
+*.csv
+*.log
+model/
+__pycache__
+.vscode/
+*.h5
